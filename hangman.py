@@ -1,6 +1,5 @@
 import random
 
-# Hangman stages from your text file
 HANGMAN_STAGES = [
     """
    +---+
